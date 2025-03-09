@@ -1,13 +1,13 @@
 {
-  "id": "generator-fabric-1.20.1",
+  "id": "generator-fabric-1.21.4",
   "minversion": 202400118518,
   "maxversion": 99999999999,
   "weight":  11,
   "info": {
     "name": "Minecraft Fabric 1.21 Generator",
-    "version": "1.21 PORT",
+    "version": "1.11.1 - 1.21.4 Port",
     "description": "A Fabric generator",
-    "author": "Goldorion",
+    "author": "ShrikerChestTree",
     "credits": "Thank You To Goldorion For The Original Project",
     "updateJSONURL": "https://raw.githubusercontent.com/PeaceDevWasTaken/Fabric-Generator-MCreator-1.21-Port-because-nobody-else-is-doing-it/1.20.1/update.json",
     "pluginPageID": 64512
